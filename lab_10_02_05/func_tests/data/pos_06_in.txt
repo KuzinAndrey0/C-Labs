@@ -1,0 +1,3 @@
+cat
+This is the first line to concatenate
+And this is the second line

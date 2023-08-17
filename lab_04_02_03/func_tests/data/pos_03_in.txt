@@ -1,0 +1,2 @@
+This is string.
+This is a new string.

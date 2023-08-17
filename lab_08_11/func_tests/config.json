@@ -1,0 +1,6 @@
+{
+    "features": {
+        "colored_output": "blue",
+        "dont_consider_neg": true
+    }
+}

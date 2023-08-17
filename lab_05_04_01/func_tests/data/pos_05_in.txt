@@ -1,0 +1,18 @@
+Familiya9
+Imya9
+4 4 4 4
+Fmmiliya7
+Imya7
+4 4 4 4
+Familiya8
+Imya8
+4 8 8 4
+Fmmiliya6
+Imya6
+4 1 1 4
+Fmmiliya5
+Imya5
+4 2 3 4
+Familiya1
+Imya1
+4 5 5 4

@@ -1,0 +1,20 @@
+Familiya
+Imya1
+4 5 5 4
+Familiya
+Imya5
+4 2 3 4
+Familiya
+Imya6
+4 1 1 4
+Familiya
+Imya7
+4 4 4 4
+Familiya
+Imya8
+4 8 8 4
+Familiya
+Imya9
+4 4 4 4
+
+

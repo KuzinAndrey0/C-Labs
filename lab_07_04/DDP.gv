@@ -1,0 +1,23 @@
+digraph "DDP" {
+and -> __asm;
+and -> continue;
+continue -> break;
+continue -> union;
+break -> auto;
+break -> catch;
+catch -> class;
+class -> const;
+union -> else;
+union -> using;
+else -> do;
+else -> inline;
+inline -> for;
+inline -> this;
+for -> enum;
+for -> if;
+this -> return;
+this -> try;
+return -> static;
+try -> true;
+true -> throw;
+}

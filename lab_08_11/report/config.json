@@ -1,0 +1,13 @@
+{
+    "student": {
+        "first_name": "Андрей",
+        "middle_name": "Алексеевич",
+        "last_name": "Кузин",
+        "group": "ИУ7-31Б"
+    },
+    "teacher": {
+        "first_name": "Татьяна",
+        "middle_name": "Александровна",
+        "last_name": "Никульшина"
+    }
+}

@@ -1,0 +1,23 @@
+digraph "TEST" {
+continue -> catch;
+continue -> inline;
+catch -> auto;
+catch -> class;
+auto -> and;
+auto -> break;
+and -> __asm;
+class -> const;
+inline -> for;
+inline -> throw;
+for -> else;
+for -> if;
+else -> do;
+else -> enum;
+throw -> static;
+throw -> try;
+static -> return;
+static -> this;
+try -> true;
+try -> union;
+union -> using;
+}

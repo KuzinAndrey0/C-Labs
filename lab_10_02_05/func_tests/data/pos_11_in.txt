@@ -1,0 +1,3 @@
+pos
+Some unusual string line for check
+check
